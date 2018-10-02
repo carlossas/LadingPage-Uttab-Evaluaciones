@@ -1,0 +1,17 @@
+.view {
+    /* background: url("../../../assets/img/wallpaper.png")no-repeat center center;
+    background-size: cover; */
+    height: 100vh;
+}
+
+.img-responsive {
+    width: 70px;
+}
+
+.disponibleImg {
+    width: 150px;
+}
+
+.textCard {
+    color: gray;
+}
