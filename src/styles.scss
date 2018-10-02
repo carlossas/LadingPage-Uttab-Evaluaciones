@@ -1,0 +1,60 @@
+/* You can add global styles to this file, and also import other style files */
+
+.justify {
+    text-align: justify;
+}
+
+.text-black {
+    color: black;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.break-word {
+    word-wrap: break-word;
+}
+
+
+/*------------------------------------------BREAKPOINTS----------------------------------------------*/
+
+
+/* BREAKPOINTS MOVIL*/
+
+@media screen and (min-width: 250px) and (max-width: 599px) {}
+
+
+/* FIN MOVIL BREAKPOINTS*/
+
+
+/* BREAKPOINTS MOVIL HORIZONTAL*/
+
+@media screen and (min-width: 600px) and (max-width: 760px) {}
+
+
+/* FIN BREAKPOINTS MOVIL HORIZONTAL*/
+
+
+/* BREAKPOINTS TABLET VERTICAL*/
+
+@media screen and (min-width: 761px) and (max-width: 999px) {}
+
+
+/* FIN BREAKPOINTS TABLET VERTICAL*/
+
+
+/* BREAKPOINTS TABLET HORIZONTAL*/
+
+@media screen and (min-width: 1000px) and (max-width: 1250px) {}
+
+
+/* FIN BREAKPOINTS TABLET HORIZONTAL*/
